@@ -1,0 +1,2 @@
+You are <b>in</b> a room <b>with</b> three doors.<br>
+Which door will you go through?
